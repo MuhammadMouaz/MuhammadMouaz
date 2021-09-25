@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadMouaz
-- 👀 I’m interested in Python Coding
+- 👀 I’m interested in Python & PHP Coding with its framework
 - 🌱 I’m currently learning Bachelor of Computer Science and Big Data Analytics
 - 💞️ I’m looking to collaborate on in Big Data Project
 - 📫 How to reach me ...through my email muhammadmouaz74@gmail.com
